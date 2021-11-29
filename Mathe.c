@@ -8,6 +8,6 @@ int main(){
   printf("Enter B:-");
   scanf("%d",&b);
   printf("Square root of %d is %f",a,sqrt(a));
-  printf("%d Raise to the power of %d is %f",a,b,pow(a,b));
+  printf("\n%d Raise to the power of %d is %f",a,b,pow(a,b));
 
 }
